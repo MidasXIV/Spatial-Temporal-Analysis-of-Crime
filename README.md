@@ -5,10 +5,12 @@ Our Data Mining assignment aims at performing Tactical Crime analysis on real-wo
 
 ![Alt Text](https://github.com/MidasXIV/Spatial-Temporal-Analysis-of-Crime/blob/master/Videos/KNN_java.gif)
 ![Alt Text](https://github.com/MidasXIV/Spatial-Temporal-Analysis-of-Crime/blob/master/Videos/Knn_cluster.gif)
+
 # Videos
 https://drive.google.com/open?id=1y08qWhEbzC3jEPsJvlJ2NCH_d3u_Dbgu
+![alt text](https://github.com/MidasXIV/Spatial-Temporal-Analysis-of-Crime/blob/master/Videos/Knn_cluster_console.gif)
 
 # About the Dataset
 Our dataset initially consisted of several attributes such as date reported, date occurred, time occurred, area id, area name, reporting district, crime code, crime code description, victim age, victim sex, victim descent, weapon used code, weapon description, status code, status description, cross street, location.
 But for the purpose of our assignment, we narrowed them down to 11 attributes. A detailed description of each attribute is given below.
- ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+ 
