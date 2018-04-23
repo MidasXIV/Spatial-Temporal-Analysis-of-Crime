@@ -9,6 +9,8 @@ Our Data Mining assignment aims at performing Tactical Crime analysis on real-wo
 # Videos
 https://drive.google.com/open?id=1y08qWhEbzC3jEPsJvlJ2NCH_d3u_Dbgu
 ![alt text](https://github.com/MidasXIV/Spatial-Temporal-Analysis-of-Crime/blob/master/Videos/Knn_cluster_console.gif)
+![alt text](https://github.com/MidasXIV/Spatial-Temporal-Analysis-of-Crime/blob/master/Videos/BayesianNetStart.gif)
+![alt text](https://github.com/MidasXIV/Spatial-Temporal-Analysis-of-Crime/blob/master/Videos/BayesianNetROC.gif)
 
 # About the Dataset
 Our dataset initially consisted of several attributes such as date reported, date occurred, time occurred, area id, area name, reporting district, crime code, crime code description, victim age, victim sex, victim descent, weapon used code, weapon description, status code, status description, cross street, location.
