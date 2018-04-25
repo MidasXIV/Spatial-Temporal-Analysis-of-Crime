@@ -15,4 +15,4 @@ https://drive.google.com/open?id=1y08qWhEbzC3jEPsJvlJ2NCH_d3u_Dbgu
 # About the Dataset
 Our dataset initially consisted of several attributes such as date reported, date occurred, time occurred, area id, area name, reporting district, crime code, crime code description, victim age, victim sex, victim descent, weapon used code, weapon description, status code, status description, cross street, location.
 But for the purpose of our assignment, we narrowed them down to 11 attributes. A detailed description of each attribute is given below.
- 
+![alt text](https://github.com/MidasXIV/Spatial-Temporal-Analysis-of-Crime/blob/master/Illustrations/intro%20-%20attributes%20table.png)
